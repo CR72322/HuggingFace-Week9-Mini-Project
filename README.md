@@ -54,3 +54,5 @@ model = AutoModelForImageClassification.from_pretrained("google/vit-base-patch16
 ## Resources
 https://huggingface.co/google/vit-base-patch16-224
 https://huggingface.github.io/candle/guide/installation.html
+## Streamlit link:
+https://huggingface-week9-mini-project-3apnycqbfeh7q7cypm7iuc.streamlit.app
