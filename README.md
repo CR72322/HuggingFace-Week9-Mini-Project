@@ -40,7 +40,7 @@ model = AutoModelForImageClassification.from_pretrained("google/vit-base-patch16
 3. [Run](https://docs.streamlit.io/library/get-started/main-concepts) it:
 
     ```shell
-    streamlit app.py
+    streamlit run app.py
     ```
 
     As soon as you run the script, a local Streamlit server will spin up, and
